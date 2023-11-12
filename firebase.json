@@ -1,0 +1,15 @@
+{
+    "functions": [
+        {
+            "source": "backend",
+            "codebase": "javascript",
+            "ignore": [
+                "backend/node_modules",
+                ".git",
+
+                "firebase-debug.log",
+                "firebase-debug.*.log"
+            ]
+        }
+    ]
+}
